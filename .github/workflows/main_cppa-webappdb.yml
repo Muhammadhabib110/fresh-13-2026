@@ -52,4 +52,4 @@ jobs:
           app-name: 'cppa-WebappDB'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF806CB5663F44CFA0F5AAF0492C69EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FCCA85AE44E74B0EA00B3C2DB91C0C0D }}
